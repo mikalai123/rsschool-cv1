@@ -1,7 +1,7 @@
 # Mikalai Kavalionak
 -----
 
-![markdown logo](E:\проекты\IMG_20220103_233804)
+![markdown logo](https://github.com/account)
 
 -----
 
